@@ -1,0 +1,4 @@
+config/app.toml
+dist/
+__debug_bin*
+utils/assets
